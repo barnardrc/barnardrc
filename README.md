@@ -1,4 +1,4 @@
-# Hi, I'm barnardrc
+# Hi, I'm Ryan
 
 I build practical software around computer vision, applied machine learning, automation, and data-heavy workflows. I enjoy taking an ambiguous real-world problem, turning it into a reproducible pipeline, and giving people a usable interface for the result.
 
